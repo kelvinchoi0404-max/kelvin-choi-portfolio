@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://example.github.io/kelvin-choi-portfolio
+Sitemap: https://example.github.io/kelvin-choi-portfolio/sitemap.xml
